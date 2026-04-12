@@ -1,0 +1,11 @@
+# pyproject.toml
+
+[tool.isort]
+skip = ["venv", ".venv", "migrations"]
+
+[tool.flake8]
+extend-exclude = ["venv", ".venv", "migrations"]
+
+[tool.mypy]
+exclude = ["venv", "\\.venv", "migrations"]
+# Note: Mypy exclude takes a regex string [2]
