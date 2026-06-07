@@ -1,0 +1,772 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164908_919242.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164924_474683.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164925_814703.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164927_201715.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164928_643862.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164929_994133.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164932_915008.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164943_608622.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164944_586330.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164946_897980.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164948_092079.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164952_755774.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164954_556244.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164955_721003.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164957_514583.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_164959_404139.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165001_359277.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165009_494268.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165010_498443.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165012_603946.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165013_923093.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165014_937672.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165019_176630.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165057_398472.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165059_146613.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165114_993424.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165115_977230.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165117_366273.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165118_514246.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165120_071028.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165121_101812.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165124_184661.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165125_189344.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165125_907376.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165126_535884.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165127_034835.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165127_656066.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165128_344849.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165129_350577.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165130_130265.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165130_796341.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165131_382515.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165132_055961.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165134_111915.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165134_869141.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165135_560124.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165136_222957.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165137_069379.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165145_085699.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165146_277703.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165147_467024.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165148_837249.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165150_000904.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165150_801982.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165151_718194.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165152_587095.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165153_434255.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165154_154090.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165154_717921.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165156_730001.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165158_623537.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165200_127384.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165203_894955.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165205_259326.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165206_099534.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165207_653855.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165208_967836.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165211_801232.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165212_756743.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=20260607_165216_063164.jpg"
+    },
+    "predictions": [
+      {
+        "model_version": "yolo11x.pt+sam2.1_l.pt",
+        "result": []
+      }
+    ]
+  }
+]

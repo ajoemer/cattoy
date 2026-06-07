@@ -1,1 +1,10 @@
 .venv
+
+*.pt
+
+*.jpg
+
+
+*.txt
+*.cache
+*.zip

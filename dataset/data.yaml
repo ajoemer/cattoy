@@ -1,0 +1,7 @@
+names:
+- cat
+- cat_toy
+nc: 2
+path: /root/personal/cattoy/dataset
+train: images/train
+val: images/val
